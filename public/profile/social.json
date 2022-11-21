@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/prashantkj/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/pkachu17"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:prashantkj681@gmail.com.com"
+        }
+    ]
+}
