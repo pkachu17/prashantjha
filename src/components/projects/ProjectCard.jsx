@@ -46,10 +46,11 @@ const ProjectCard = (props) => {
           ...styles.cardStyle,
           backgroundColor: theme.cardBackground,
           borderColor: theme.cardBorderColor,
+          width: '22rem',
         }}
         text={theme.bsSecondaryVariant}
       >
-        <Card.Img variant="top" src={project?.image} />
+        <Card.Img variant="top" src={project?.image}/>
         <Card.Body>
           <Card.Title style={styles.cardTitleStyle}>{project.title}</Card.Title>
           <Card.Text style={styles.cardTextStyle}>
