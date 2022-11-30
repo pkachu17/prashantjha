@@ -1,19 +1,9 @@
-.vertical {
-    justify-content: center;
+.entry .body{
+    margin: 0 0 1em;
 }
 
-.vertical_alternating {
-    justify-content: center;
-}
-
-@media only screen and (max-width: 578px) {
-    div.vertical-item-row > div:nth-child(1) {
-        width: 20% !important;
-    }
-    div.vertical-item-row > div:nth-child(2) {
-        width: 65% !important;
-    }
-    div.vertical-item-row > div:nth-child(3) {
-        width: 15% !important;
+@media only screen and (max-width: 768px) {
+    .item-title {
+        margin-top: 10px !important;
     }
 }

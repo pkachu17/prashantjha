@@ -1,19 +1,31 @@
 {
-    "education":[
+    "educations": [
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Graduation Program (Master's)",
+            "subtitle": "State University of New York - SUNY Buffalo",
+            "courseType": "Computer Science & Engineering",
+            "courseDescription": [
+                "Distributed Systems",
+                "Database Management & Query Languages",
+                "Machine Learning",
+                "Software Security",
+                "Operating Systems",
+                "Pattern Recognition",
+                "Algorithms Design and Analysis",
+                "Seminar on **System 1 and System 2 based AI**",
+                "Seminar on **Bioinformatics - PaperSpeckel**",
+                "Master's Project on **Vozzz - A speech synthesis web base tool** for children."
+            ],
+            "dateText": "Aug-2021 – Feb-2023"
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Undergratuate Program (Bachelor's)",
+            "subtitle": "Acharya Institute of Technology - Bengaluru",
+            "courseType": "Information Science & Engineering",
+            "courseDescription": [
+                "Bachelor's Project on Touch and voice assisted E-mail application."
+            ],
+            "dateText": "August 2014 – June 2018"
         }
     ]
 }
