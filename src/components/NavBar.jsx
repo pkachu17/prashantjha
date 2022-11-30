@@ -65,6 +65,7 @@ const NavBar = () => {
       variant= {navbarTheme}
       className="navbar-custom"
       expanded={expanded}
+      bg= {navbarTheme}
     >
       <Container>
         {data?.logo && (
