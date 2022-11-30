@@ -62,9 +62,9 @@ function About() {
 
   return (
     <>
-      <div className="header-about">
+      {/* <div className="header-about">
         <Header title={header} />
-      </div>
+      </div> */}
       <div className="section-content-container">
         <Container>
           {data

@@ -2,6 +2,8 @@ export const lightTheme = {
   background: '#fff',
   color: '#121212',
   accentColor: '#3D84C6',
+  navbartheme: 'light',
+  brandTextColor: '#121212',
   chronoTheme: {
     cardBgColor: 'white',
     cardForeColor: 'black',
@@ -12,9 +14,9 @@ export const lightTheme = {
   cardFooterBackground: '#f7f7f7',
   cardBorderColor: '#00000020',
   navbarTheme: {
-    linkColor: '#dedede',
-    linkHoverColor: '#fefefe',
-    linkActiveColor: '#fefefe',
+    linkColor: '#121212',
+    linkHoverColor: '#404040',
+    linkActiveColor: '#404040',
   },
   bsPrimaryVariant: 'light',
   bsSecondaryVariant: 'dark',
@@ -25,6 +27,8 @@ export const darkTheme = {
   background: '#121212',
   color: '#eee',
   accentColor: '#3D84C6',
+  navbartheme: 'dark',
+  brandTextColor: '#dedede',
   chronoTheme: {
     cardBgColor: '#1B1B1B',
     cardForeColor: '#eee',
