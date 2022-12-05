@@ -70,24 +70,25 @@
         },
 
         {
-            "image" : "images/projects/portfolio-poster.png",
+            "image" : "images/projects/vozzz.png",
             "width" : "80px",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "title": "VOZZZ-Speech Synthesis App",
+            "bodyText": "- A speech synthesis app made with React\n -  Fully customisable and dynamic, easily change data and images.\n - Android device accesible",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/pkachu17"
+                    "href": "https://github.com/pkachu17/vozzwebsite"
                 },
                 {
                     "text": "Live",
-                    "href": "https://github.com/pkachu17"
+                    "href": "https://vozzwebsite.vercel.app/"
                 }
             ],
             "tags" : [
                 "React",
-                "Portfolio",
-                "JavaScript"
+                "Firebase",
+                "JavaScript",
+                "Speech Synthesis"
             ]
         }
     ]
