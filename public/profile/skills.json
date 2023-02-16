@@ -10,10 +10,6 @@
                     "title": "Java"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
@@ -24,6 +20,10 @@
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "PostgreSQL"
                 }
         ]},
         {
@@ -40,6 +40,10 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/express.png",
+                    "title": "express.js"
                 }
             ]
         },
@@ -49,6 +53,14 @@
                 {
                     "icon": "images/skills/android-studio.png",
                     "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VScode"
+                },
+                {
+                    "icon": "images/skills/eclipse.png",
+                    "title": "Eclipse"
                 },
                 {
                     "icon": "images/skills/git.png",

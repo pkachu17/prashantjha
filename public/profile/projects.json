@@ -90,6 +90,27 @@
                 "JavaScript",
                 "Speech Synthesis"
             ]
+        },
+
+        {
+            "image" : "images/projects/northstar.png",
+            "width" : "80px",
+            "title": "Northstar",
+            "bodyText": "- A platform to provide student, researchers and academics a learning roadmap for exchanging, giving likes, and building new roadmaps to create a space where all learners can profit from the advice of the experts.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://northstar-online.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Firebase",
+                "JavaScript",
+                "Material UI",
+                "API",
+                "neo4j"
+            ]
         }
     ]
 }

@@ -1,6 +1,17 @@
 {
     "experiences": [
         {
+            "title": "Fullstack Developer",
+            "subtitle": "X-Labs (University at Buffalo)",
+            "workType": "Research Assistant",
+            "workDescription": [
+                "Working with the team to develop official apps for product called Northstar.",
+                "x-labs at Univesity at Buffalo-(SUNY)",
+                "React.JS, Material UI, API, Neo4j, Firebase"
+            ],
+            "dateText": "Dec 2022 – Present"
+        },
+        {
             "title": "Software Engineer",
             "subtitle": "Capgemini India",
             "workType": "Full-time",
@@ -9,15 +20,7 @@
                 "Automation in IT"
             ],
             "dateText": "July 2018 – May 2021"
-        },
-        {
-            "title": "Fullstack Developer",
-            "subtitle": "MERN stack",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using React framework."
-            ],
-            "dateText": "Aug 2020 – July 2022"
         }
+
     ]
 }
