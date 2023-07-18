@@ -1,7 +1,7 @@
 {
     "name": "Prashant Kumar Jha",
-    "roles": ["a Developer", "a Student"],
-    "about": " I am currently a Master's student at University at Buffalo - SUNY.\n\n\nMajor in Computer Science and Engineering and Experience in project development.\nI am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. passion led me to challenge myself daily and learn new skills that helped me to do better work.",
+    "roles": ["a Software Developer", "Fullstack Developer"],
+    "about": " I am a Full Stack software developer.\nWhere my skill lies in Java, React.JS, ES6, Javascript, Spring Boot, etc.\nI am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. passion led me to challenge myself daily and learn new skills that helped me to do better work.",
     "imageSource": "images/about/profile.png"
     
 }

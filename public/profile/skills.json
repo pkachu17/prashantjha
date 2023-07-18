@@ -29,13 +29,14 @@
         {
             "title": "Frameworks & Technologies",
             "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
+
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
+                },
+                {
+                    "icon": "images/skills/springboot.png",
+                    "title": "SpringBoot"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
@@ -44,16 +45,17 @@
                 {
                     "icon": "images/skills/express.png",
                     "title": "express.js"
+                },
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android"
                 }
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
+
                 {
                     "icon": "images/skills/vscode.png",
                     "title": "VScode"
@@ -65,6 +67,10 @@
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
+                },
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
                 },
                 {
                     "icon": "images/skills/docker.png",
