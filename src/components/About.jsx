@@ -12,7 +12,7 @@ import Social from './Social';
 
 const styles = {
   introTextContainer: {
-    margin: 20,
+    margin: 30,
     flexDirection: 'column',
     whiteSpace: 'pre-wrap',
     textAlign: 'left',
