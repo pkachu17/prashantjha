@@ -16,7 +16,7 @@
                 "Seminar on **Bioinformatics - PaperSpeckel**",
                 "Master's Project on **Vozzz - A speech synthesis web base tool** for children."
             ],
-            "dateText": "Aug-2021 – Dec-2022"
+            "dateText": "Aug-2021 – Feb-2023"
         },
         {
             "title": "Undergratuate Program (Bachelor's)",
@@ -24,9 +24,9 @@
             "courseType": "Information Science & Engineering",
             "courseDescription": [
                 "Bachelor's Project on Touch and voice assisted E-mail application.",
-                "Using Android Studio, Java"
+                "Application built using technologies like Java, Android Studio, API"
             ],
-            "dateText": "August 2014 – June 2018"
+            "dateText": "Aug 2014 – Jun 2018"
         }
     ]
 }

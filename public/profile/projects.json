@@ -23,24 +23,46 @@
         },
 
         {
-            "image" : "images/projects/Clock.png",
+            "image" : "images/projects/northstar.png",
             "width" : "80px",
-            "title": "Clock",
-            "bodyText": "- Clock Website made in React\n - Elements are draggable.\n - Minute quotes refresh",
+            "title": "Northstar",
+            "bodyText": "- A platform to provide student, researchers and academics a learning roadmap for exchanging, giving likes, and building new roadmaps to create a space where all learners can profit from the advice of the experts.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/pkachu17/clock"
-                },
-                {
                     "text": "Live",
-                    "href": "https://clock-three-coral.vercel.app/"
+                    "href": "https://northstar-online.vercel.app/"
                 }
             ],
             "tags" : [
                 "React",
-                "Draggable",
-                "API"
+                "Firebase",
+                "JavaScript",
+                "Material UI",
+                "API",
+                "neo4j"
+            ]
+        },
+
+        {
+            "image" : "images/projects/vozzz.png",
+            "width" : "80px",
+            "title": "VOZZZ-Speech Synthesis App",
+            "bodyText": "- A speech synthesis app made with React\n -  Fully customisable and dynamic, easily change data and images.\n - Android device accesible",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/pkachu17/vozzwebsite"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://vozzwebsite.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Firebase",
+                "JavaScript",
+                "Speech Synthesis"
             ]
         },
 
@@ -70,46 +92,46 @@
         },
 
         {
-            "image" : "images/projects/vozzz.png",
+            "image" : "images/projects/findAJob.png",
             "width" : "80px",
-            "title": "VOZZZ-Speech Synthesis App",
-            "bodyText": "- A speech synthesis app made with React\n -  Fully customisable and dynamic, easily change data and images.\n - Android device accesible",
+            "title": "FindAJob",
+            "bodyText": "- Job hunt Website made in React Native\n - Cross platform support\n - Web, Android & IOS",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/pkachu17/vozzwebsite"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://vozzwebsite.vercel.app/"
+                    "href": "https://github.com/pkachu17/findAjob"
                 }
             ],
             "tags" : [
-                "React",
-                "Firebase",
+                "React Native",
                 "JavaScript",
-                "Speech Synthesis"
+                "Coss-platform",
+                "Android",
+                "Web",
+                "IOS",
+                "API"
             ]
         },
 
         {
-            "image" : "images/projects/northstar.png",
+            "image" : "images/projects/Clock.png",
             "width" : "80px",
-            "title": "Northstar",
-            "bodyText": "- A platform to provide student, researchers and academics a learning roadmap for exchanging, giving likes, and building new roadmaps to create a space where all learners can profit from the advice of the experts.",
+            "title": "Clock",
+            "bodyText": "- Clock Website made in React\n - Elements are draggable.\n - Minute quotes refresh",
             "links": [
                 {
+                    "text": "GitHub",
+                    "href": "https://github.com/pkachu17/clock"
+                },
+                {
                     "text": "Live",
-                    "href": "https://northstar-online.vercel.app/"
+                    "href": "https://clock-three-coral.vercel.app/"
                 }
             ],
             "tags" : [
                 "React",
-                "Firebase",
-                "JavaScript",
-                "Material UI",
-                "API",
-                "neo4j"
+                "Draggable",
+                "API"
             ]
         }
     ]
