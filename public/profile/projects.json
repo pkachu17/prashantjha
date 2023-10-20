@@ -114,6 +114,29 @@
         },
 
         {
+            "image" : "images/projects/codeprep.png",
+            "width" : "80px",
+            "title": "CodePrep",
+            "bodyText": "- Learn DSA practicing leetcode and GFG\n - List of 150 coding questions\n - Changes saved in localstorage.\n - Website made using React",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/pkachu17/codeprep"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://codeprep.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "Learn Data Structures and Algo.",
+                "DSA 150 Ques.",
+                "List to refer",
+                "React v18.0.0"
+            ]
+        },
+
+        {
             "image" : "images/projects/Clock.png",
             "width" : "80px",
             "title": "Clock",
